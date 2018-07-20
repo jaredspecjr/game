@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { Route, Switch, HashRouter } from 'react-router-dom';
 import Room1 from './Room1';
+import { Route, Switch, HashRouter } from 'react-router-dom';
 
 class App extends Component {
   render() {

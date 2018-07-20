@@ -1,12 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 function Room1(){
-  return (
-    <div>
-      <h1>room  works</h1>
-    </div>
-  );
+  return(
+    <section>
+    Room1 works!
+    </section>
+  )
 }
-
 export default Room1;
